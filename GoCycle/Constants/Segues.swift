@@ -8,5 +8,5 @@
 import Foundation
 
 enum SEGUES {
-    static let loginToHome = "loginToHome"
+    static let usernameViewController = "usernameViewController"
 }
