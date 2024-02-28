@@ -56,15 +56,71 @@
 		52AE33462B8ECC4300DF85C1 /* GoCycle */ = {
 			isa = PBXGroup;
 			children = (
+				52AE33502B8ECC4400DF85C1 /* Assets.xcassets */,
 				52AE33472B8ECC4300DF85C1 /* AppDelegate.swift */,
 				52AE33492B8ECC4300DF85C1 /* SceneDelegate.swift */,
 				52AE334B2B8ECC4300DF85C1 /* ViewController.swift */,
-				52AE334D2B8ECC4300DF85C1 /* Main.storyboard */,
-				52AE33502B8ECC4400DF85C1 /* Assets.xcassets */,
 				52AE33522B8ECC4400DF85C1 /* LaunchScreen.storyboard */,
+				52AE334D2B8ECC4300DF85C1 /* Main.storyboard */,
 				52AE33552B8ECC4500DF85C1 /* Info.plist */,
+				52AE33602B8ECD1300DF85C1 /* Constants */,
+				52AE33652B8ED26C00DF85C1 /* Extensions */,
+				52AE335B2B8ECCB000DF85C1 /* Models */,
+				52AE33662B8ED2A600DF85C1 /* Resources */,
+				52AE335E2B8ECCE200DF85C1 /* Services */,
+				52AE335F2B8ECD0400DF85C1 /* Storyboards */,
+				52AE335C2B8ECCBA00DF85C1 /* ViewControllers */,
 			);
 			path = GoCycle;
+			sourceTree = "<group>";
+		};
+		52AE335B2B8ECCB000DF85C1 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		52AE335C2B8ECCBA00DF85C1 /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ViewControllers;
+			sourceTree = "<group>";
+		};
+		52AE335E2B8ECCE200DF85C1 /* Services */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
+		52AE335F2B8ECD0400DF85C1 /* Storyboards */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Storyboards;
+			sourceTree = "<group>";
+		};
+		52AE33602B8ECD1300DF85C1 /* Constants */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Constants;
+			sourceTree = "<group>";
+		};
+		52AE33652B8ED26C00DF85C1 /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		52AE33662B8ED2A600DF85C1 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
